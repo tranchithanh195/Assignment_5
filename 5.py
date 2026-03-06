@@ -12,5 +12,6 @@ def estimate_pi():
     pi_approximation = 4 * points_inside_circle / total_points
     print(f"The approximate value of pi is: {pi_approximation}")
 
+
 if __name__ == "__main__":
     estimate_pi()
